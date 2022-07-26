@@ -10,7 +10,7 @@ This reading list is maintained for personal record.
 6. [GRACGE: Graph Signal Clustering and Multiple Graph Estimation](https://ieeexplore.ieee.org/document/9756907). I encountered this paper in the group meeting this month. The proof utilized many techniques I learnt in SEEM5380 (optimization methods for high-dimensional statistics).
 7. [Pari-Mutuel Markets: Mechanisms and Performance](https://web.stanford.edu/~yyye/scpmfinal.pdf). This work talks about different mechanisms in the pari-mutuel market. It gives a good explanation for readers to understand how the optimization problem is formulated.
 8. Regular expression: I started to use regular expression systematically this month. Here are some useful tutorial webpages for reference. 
-- [Chinese Version Introduction](https://blog.techbridge.cc/2020/05/14/introduction-to-regular-expression/)
-- [English Tutorial](https://refrf.dev/)
-- [Python Library](https://docs.python.org/3/library/re.html)
-- [Kaggle Notebook for python re](https://www.kaggle.com/code/gauravduttakiit/regular-expressions/notebook)
+  - [Chinese Version Introduction](https://blog.techbridge.cc/2020/05/14/introduction-to-regular-expression/)
+  - [English Tutorial](https://refrf.dev/)
+  - [Python Library](https://docs.python.org/3/library/re.html)
+  - [Kaggle Notebook for python re](https://www.kaggle.com/code/gauravduttakiit/regular-expressions/notebook)
