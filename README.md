@@ -14,3 +14,4 @@ This reading list is maintained for personal record.
   - [English Tutorial](https://refrf.dev/)
   - [Python Library](https://docs.python.org/3/library/re.html)
   - [Kaggle Notebook for python re](https://www.kaggle.com/code/gauravduttakiit/regular-expressions/notebook)
+9. [NGBoost](https://stanfordmlgroup.github.io/projects/ngboost/). The idea of natural gradient is quite worth exploration. But I haven't got enough time to read through this [paper](https://arxiv.org/pdf/1910.03225.pdf) recently.
