@@ -23,3 +23,4 @@ This reading list is maintained for personal record.
   - [Chinese Version](https://pytorch-cn.readthedocs.io/zh/latest/package_references/torch-nn/)
   - [Github Tutorial I](https://github.com/yunjey/pytorch-tutorial)
   - [Github Tutorial II](https://github.com/MorvanZhou/PyTorch-Tutorial)
+13. Neural Networks: I came into this [video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3b1b on Youtube. Chapter 4 provides a good explanation of back propagation.
