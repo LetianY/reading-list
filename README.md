@@ -15,3 +15,10 @@ This reading list is maintained for personal record.
   - [Python Library](https://docs.python.org/3/library/re.html)
   - [Kaggle Notebook for python re](https://www.kaggle.com/code/gauravduttakiit/regular-expressions/notebook)
 9. [NGBoost](https://stanfordmlgroup.github.io/projects/ngboost/). The idea of natural gradient is quite worth exploration. But I haven't got enough time to read through this [paper](https://arxiv.org/pdf/1910.03225.pdf) recently.
+10. [CatBoost](https://github.com/catboost). I started looking at [this documentation](https://catboost.ai/en/docs/concepts/algorithm-main-stages_cat-to-numberic) to see how categorical values are transformed into numerical ones in CatBoost. I plan to read the [paper](https://arxiv.org/pdf/1706.09516.pdf) in the near future to further understand the mechanism of this model.
+11. Radial Basis Function Network: This topic is waiting to be gone through in the future. Here I only list a few reading sources for self reference later.
+  - [Chinese Tutorial](https://zwindr.blogspot.com/2017/08/ml-radial-basis-function-network.html)
+12. PyTorch: My major plan in terms of coding this summer would be to systematically learn PyTorch framework (and extend to Tensorflow in the future if time allows).
+  - [Official Tutorial](https://pytorch.org/tutorials/)
+  - [Github Tutorial I](https://github.com/yunjey/pytorch-tutorial)
+  - [Github Tutorial II](https://github.com/MorvanZhou/PyTorch-Tutorial)
