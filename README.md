@@ -20,5 +20,6 @@ This reading list is maintained for personal record.
   - [Chinese Tutorial](https://zwindr.blogspot.com/2017/08/ml-radial-basis-function-network.html)
 12. PyTorch: My major plan in terms of coding this summer would be to systematically learn PyTorch framework (and extend to Tensorflow in the future if time allows).
   - [Official Tutorial](https://pytorch.org/tutorials/)
+  - [Chinese Version](https://pytorch-cn.readthedocs.io/zh/latest/package_references/torch-nn/)
   - [Github Tutorial I](https://github.com/yunjey/pytorch-tutorial)
   - [Github Tutorial II](https://github.com/MorvanZhou/PyTorch-Tutorial)
