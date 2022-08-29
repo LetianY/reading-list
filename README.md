@@ -29,3 +29,4 @@ This reading list is maintained for personal record.
 ### 2022 August
 1. [Python Set Operation](https://www.freecodecamp.org/news/python-set-operations-explained-with-examples/). I reviewed all the set operation based on this this article.
 2. [CHINA'S FINANCIAL SYSTEM AND ECONOMY: A REVIEW](https://www.nber.org/system/files/working_papers/w30324/w30324.pdf). This article gives a systematical review for the financial system in China. I am typically interested in the bond market insights.
+3. [Coupon Collector Problem](https://zh.m.wikipedia.org/zh/%E8%B4%88%E5%88%B8%E6%94%B6%E9%9B%86%E5%95%8F%E9%A1%8C).
