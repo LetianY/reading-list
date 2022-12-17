@@ -31,9 +31,15 @@ This reading list is maintained for personal record.
 2. [CHINA'S FINANCIAL SYSTEM AND ECONOMY: A REVIEW](https://www.nber.org/system/files/working_papers/w30324/w30324.pdf). This article gives a systematical review for the financial system in China. I am typically interested in the bond market insights.
 3. [Coupon Collector Problem](https://zh.m.wikipedia.org/zh/%E8%B4%88%E5%88%B8%E6%94%B6%E9%9B%86%E5%95%8F%E9%A1%8C).
 
-### 2022 September (To be updated here)
+### 2022 September
 1. Manifold Learning
 2. Spectral Clustering
 
-### 2022 October
-1. Graph Laplacian and spectrum
+A few of the mentioned readings are in [this file](https://github.com/LetianY/reading-list/blob/main/Spectral%20Clustering.md).
+
+### 2022 October to November
+1. Graph Laplacian and spectrum continued.
+2. I began a [telegram channel](https://t.me/%20QqWKFEImyq8wZjY1) for knowledge about data science.
+3. Some market news & newsletter.
+4. NLP tasks [paper reading](https://github.com/LetianY/language-generation/blob/main/README.md).
+
