@@ -1,5 +1,5 @@
 # Reading List
-This reading list is maintained for personal record.
+This reading list is maintained for personal record. Starting from October, I update more of these content on my Telegram channel. Join this **[telegram channel](https://t.me/%20QqWKFEImyq8wZjY1)** for my personal machine learning & data science knowledge sharing if you are interested.
 
 ### 2022 July
 1. [Modeling Non-linear Least Squares](http://ceres-solver.org/nnls_modeling.html). This one is about Ceres solver.
